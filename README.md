@@ -2,7 +2,7 @@
 
 **Software Engineer | Web Developer | Tech Enthusiast**
 
-Sou um desenvolvedor apaixonado por resolver problemas através do código. Atualmente focado em [Sua Tecnologia Principal, ex: React & Node.js].
+Sou um desenvolvedor apaixonado por resolver problemas através do código. Atualmente cursando Ciençias da Computação.
 
 ---
 ### 🛠 Tecnologias
